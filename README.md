@@ -5,4 +5,4 @@
 - Numerical solution of ODE: Runge-Kutta methods (including explicit and implicit Euler), Adams-Mouton, Adams-Bashforth and Predict-Correct methods
 - Iterative methods for finding eigenvalues: power method, Jacobi, Givens-Householder, QR (time permitting)
 
-- 
+Originally created in Jupyter and then converted for GitHub.
